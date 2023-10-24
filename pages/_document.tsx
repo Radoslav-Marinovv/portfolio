@@ -3,7 +3,7 @@ import { Html, Head, Main, NextScript } from 'next/document'
 export default function Document() {
   const meta = {
     title: 'Radoslav Marinov | Portfolio',
-    description: 'Radoslav Marinov portfolio.',
+    description: 'Here you can find my personal projects and download my resume.',
     image: 'https://media.licdn.com/dms/image/D4D03AQGzCyBZn2KQPw/profile-displayphoto-shrink_400_400/0/1689246796211?e=1703721600&v=beta&t=7OpIVJmMVIHnKGkU8iemtpPFPFO4STEZ-r1ATYo99Es',
   }
 
