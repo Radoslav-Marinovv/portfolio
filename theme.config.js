@@ -5,13 +5,14 @@ export default {
     <footer>
       <small>
         <time>{YEAR}</time> © Radoslav Marinov.
-        <a href="/feed.xml">RSS</a>
+        <a href="/files/Radoslav-Marinov-Resume.pdf">Radoslav-Marinov-Resume</a>
       </small>
       <style jsx>{`
         footer {
           margin-top: 8rem;
         }
         a {
+          font-size: large;
           float: right;
         }
       `}</style>
